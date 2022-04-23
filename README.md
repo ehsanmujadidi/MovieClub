@@ -1,6 +1,6 @@
-# MovieClub
-# PRE WORK ASSIGNMENT FOR ADVANCED CLASSES
-Step 1: In the web page, click Code dropdown.
-Step 2: Dwonload the zipped folder of the project in your local computer.
-Step 3: Right click on downloaded file and extract the project on your local computer.
-Step 4: open the index.html file in browser.
+# MovieClub [PRE WORK ASSIGNMENT FOR ADVANCED CLASSES]
+# Step 1: In the web page, click Code dropdown.
+# Step 2: Copy the "https://github.com/ehsanmujadidi/MovieClub.git".
+# Step 3: Open the terminal and clone the repository by running the below script on your local computer.
+#         git clone https://github.com/ehsanmujadidi/MovieClub.git
+# Step 4: Open the project folder and run the index.html file on browser.
