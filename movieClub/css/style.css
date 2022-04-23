@@ -1,0 +1,41 @@
+* {
+	margin:0;
+	padding:0;
+	outline:0;
+}
+body{
+	background: #f2f4f7 !important;
+}
+.container{
+	background: #fff !important;
+	margin-top: 30px;
+	border: 1px solid #EFF2F5;
+}
+.font-custom{
+	font-size: 0.9rem;
+	font-family: initial;
+	color: #736b6b;
+}
+.font-title-custom {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1e6bd9;
+    font-family: initial;
+}
+.font-small{
+	font-size: 0.8rem;
+    font-weight: 600;
+}
+.movie-link{
+	font-size: 0.85rem;
+    text-decoration: none;
+    font-weight: 500;
+    color: #3684c7;
+    text-align: center !important;
+}
+.btn-rounded{
+	border-radius: 2rem;
+}
+.b-dashed {
+	border-bottom: 1px dashed #bbb;
+}
